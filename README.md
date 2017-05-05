@@ -1,2 +1,5 @@
 # hello-world
-just text
+void main(){
+printf("hello world!");
+}
+
